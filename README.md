@@ -64,5 +64,6 @@ The visualizations show:
   3. Competitive positioning relative to nearby lots
   4. Occupancy-rate relationships
 
-## The competitive model (Model 3) provides the most balanced approach, considering both demand and market conditions.
+## Conclusion :- 
+The competitive model (Model 3) provides the most balanced approach, considering both demand and market conditions.
 
